@@ -3,7 +3,7 @@
 <h3 align="center">💻 Passionate about learning and growing in the world of technology.</h3>
 <img align="right" alt="Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  >
 
-- 🌱 I’m currently learning **C C, Python, Java, HTML, CSS, JavaScript, Dart, and Flutter.**
+- 🌱 I’m currently learning **C C++, Python, Java, HTML, CSS, JavaScript, Dart, and Flutter.**
 
 - 👯 I’m looking to collaborate on **exciting projects to further develop my skills and contribute to the tech community.**
 
