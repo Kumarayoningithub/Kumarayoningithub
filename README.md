@@ -3,11 +3,16 @@
 <h3 align="center">💻 Passionate about learning and growing in the world of technology.</h3>
 <img align="right" alt="Coding" width = "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  >
 
-- 🌱 I’m currently learning **C, C++, Python, Java, HTML, CSS, JavaScript, Dart, and Flutter.**
+  🌱 I’m currently learning **Full Stack Web Development** with a focus on **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Mobile App Development** using **Flutter & Dart**.
+
+  - 💡 Apart from MERN, I have experience with programming languages like:  
+  - **C**: Fundamental programming concepts and problem-solving.  
+  - **Java**: Object-oriented programming and application development.  
+  - **JavaScript**: Frontend and backend development.  
 
 - 👯 I’m looking to collaborate on **exciting projects to further develop my skills and contribute to the tech community.**
 
-- 📫 How to reach me **kumarayoninmail@gmail.com**
+- 📫 How to reach me **ayonkr.saha3660@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
