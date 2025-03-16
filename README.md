@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayon Kumar Saha</h1>
 <h3 align="center">Passionate about learning and growing in the world of technology.</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development with a focus on MERN Stack (MongoDB, Express.js, React.js, Node.js) and Mobile App Development using Flutter & Dart. - 💡 Apart from MERN, I have experience with programming languages like: C, Java, JavaScript**
+- 🌱 I’m currently learning **Full Stack Web Development with a focus on MERN Stack (MongoDB, Express.js, React.js, Node.js) and Mobile App Development using Flutter & Dart. - 💡 Apart from MERN, I have experience with programming languages like: C, Java, JavaScript.**
 
 - 📫 How to reach me **ayonkr.saha3660@gmail.com**
   
