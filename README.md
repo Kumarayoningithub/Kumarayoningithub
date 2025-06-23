@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayon Kumar Saha</h1>
 <h3 align="center">Passionate about learning and growing in the world of technology.</h3>
 
-- 🌱 B.Tech CSE | GATE 2025 Qualified | Aspiring Software Engineer | Full-Stack Web Developer (MERN) | Learning Flutter & Dart | DSA Practitioner | Java, Python & C Programmer | Passionate About Tech, Innovation & Real-World Problem Solving.**
+- 🌱 B.Tech CSE | GATE 2025 Qualified | Aspiring Software Engineer | Learning Full-Stack Web Development (MERN) | Exploring Flutter & Dart | DSA Practitioner | Java, C & Python Programmer | Passionate About Tech, Innovation & Real-World Problem Solving.**
 
 - 📫 How to reach me **ayonkr.saha3660@gmail.com**
 
