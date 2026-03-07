@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayon Kumar Saha</h1>
 <h3 align="center">Passionate about learning and growing in the world of technology.</h3>
 
-- 🌱 B.Tech CSE | GATE 2025 Qualified | Aspiring Software Engineer | Learning Full-Stack Web Development (MERN) | Exploring Flutter & Dart | DSA Practitioner | Java, C & Python Programmer | Passionate About Tech, Innovation & Real-World Problem Solving.
+- 🌱 B.Tech CSE | GATE 2025 Qualified | Aspiring Software Engineer | Learning Java Development | DSA Practitioner | Java, C & Python Programmer | Passionate About Tech, Innovation & Real-World Problem Solving.
 
 - 📫 How to reach me **ayonkr.saha3660@gmail.com**
 
@@ -24,11 +24,6 @@
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>
 
   <!-- Express -->
